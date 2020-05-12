@@ -1,0 +1,3 @@
+User-agent *
+Disallow: /books/*/edit
+Disallow: /boooks/new
